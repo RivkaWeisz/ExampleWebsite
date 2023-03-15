@@ -1,0 +1,7 @@
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\WiseMan.exe
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\WiseMan.dll
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\WiseMan.deps.json
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\WiseMan.runtimeconfig.json
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Release\net6.0\PubTmp\Out\WiseMan.pdb
