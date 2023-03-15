@@ -1,0 +1,7 @@
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.csproj.AssemblyReference.cache
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.AssemblyInfoInputs.cache
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.AssemblyInfo.cs
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.csproj.CoreCompileInputs.cache
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rivka\source\repos\WiseMan\WiseMan\obj\Debug\net6.0\WiseMan.MvcApplicationPartsAssemblyInfo.cache
